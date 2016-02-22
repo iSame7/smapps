@@ -5,8 +5,8 @@
     <description>Edit description in _config.yml</description>
     <link>http://isame7.github.io/smapps//</link>
     <atom:link href="http://isame7.github.io/smapps//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Feb 2016 21:36:14 +0200</pubDate>
-    <lastBuildDate>Mon, 22 Feb 2016 21:36:14 +0200</lastBuildDate>
+    <pubDate>Mon, 22 Feb 2016 21:44:17 +0200</pubDate>
+    <lastBuildDate>Mon, 22 Feb 2016 21:44:17 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -158,6 +158,33 @@ Swipe left or right to quickly change image effects. Swipe up or down to swiftly
         <pubDate>Sun, 20 Dec 2015 14:32:24 +0200</pubDate>
         <link>http://isame7.github.io/smapps//deep</link>
         <guid isPermaLink="true">http://isame7.github.io/smapps//deep</guid>
+        
+        
+        <category>iphone</category>
+        
+      </item>
+    
+      <item>
+        <title>Foody for iPhone</title>
+        <description>&lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/smapps//images/foody/foody-1.png&quot; alt=&quot;Deep for iPhone&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;content__item-center&quot;&gt;
+Foody is app that offers a subscription to food delivery. Users will sign up and subscribe to us on a weekly basis and we will deliver food to them.
+&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;Rate you lovely dish and see the average rating.&lt;/h3&gt;
+&lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/smapps//images/foody/foody-2.png&quot; alt=&quot;Foody for iPhone&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;It takes seconds to subscripe.&lt;/h3&gt;
+&lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/smapps//images/foody/foody-3.png&quot; alt=&quot;Foody for iPhone&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;Download&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot; https://bitbucket.org/smapps/foody &quot;&gt;&lt;img class=&quot;content__item-img-center&quot; src=&quot;/smapps//images/app_store_coming_soon.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 20 Dec 2015 14:32:24 +0200</pubDate>
+        <link>http://isame7.github.io/smapps//foody</link>
+        <guid isPermaLink="true">http://isame7.github.io/smapps//foody</guid>
         
         
         <category>iphone</category>
